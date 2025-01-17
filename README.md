@@ -1,0 +1,1 @@
+This repository demonstrates a common bug encountered when upgrading to React 19. The bug showcases unexpected behavior stemming from incompatibilities with older libraries or version mismatches among React's dependencies.  The solution offers strategies to resolve the issues, including dependency updates and code modifications.
