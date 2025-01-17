@@ -1,0 +1,1 @@
+This bug occurs when using the new React 19 features with older libraries or when there's a mismatch in versions between React and its related dependencies. It often manifests as unexpected behavior or runtime errors, especially when using features such as concurrent mode or automatic batching.
